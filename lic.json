@@ -1,7 +1,7 @@
 [
   {
     "id": "vandana-dgp",
-    "status": "inactive"
+    "status": "active"
   },
   {
     "id": "license-id-2",
@@ -9,6 +9,10 @@
   },
   {
     "id": "buchu2",
+    "status": "active"
+  },
+  {
+    "id": "buchu3",
     "status": "active"
   }
 ]
